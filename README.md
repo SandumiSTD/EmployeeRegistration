@@ -1,2 +1,2 @@
 # EmployeeRegistration
-This is a java application for employee registration
+This is a java CRUD application with OOP concepts and GUI interfaces.
